@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Chat app made with react.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Techologies used in project
+* React.js
+* JavaScript, CSS
+* Chat Engine : [chatengine.io](https://chatengine.io/)
+
+## Screenshots
+![Screen1](./chatapplication.png)
+
+![Screen1](./chatapplication2.png)
+
+![Screen1](./chatapplication3.png)
+
+
+![Screen1](./chatapplication4.png)
+
+![Screen1](./chatapplication5.png)
+
 
 ## Available Scripts
 
@@ -68,3 +84,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
